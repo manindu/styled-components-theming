@@ -11,7 +11,7 @@ const App = () => {
       <Theme>
         <TopBar />
         <ContentContainer>
-          <Title />
+          <Title>THEME SWITCHING WITH STYLED-COMPONENTS</Title>
         </ContentContainer>
       </Theme>
     </ThemeStore>
