@@ -1,3 +1,5 @@
+Full tutorial on jscircle.com - https://jscircle.com/react-theme-switching-with-context-api-and-styled-components/
+
 ### `yarn install`
 
 Installs the dependencies.
